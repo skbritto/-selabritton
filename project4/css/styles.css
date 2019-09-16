@@ -4,13 +4,13 @@ body{
     letter-spacing: .5px;
     line-height: 1.5;
     padding: 10%;
-    font-family:'Roboto', sans-serif;
-    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
     font-style: normal;
 }
 
 h1{
-    color:aqua;
+    color: #800000;
 
 }
 
