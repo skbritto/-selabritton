@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Charlie's Cafe</title>
+    <link href="stylesheet" href="https://use.typekit.net/ptd7dhx.css">
+    <link rel="stylesheet" type="text/css" href="Charlies/style.css">  
+</head>                                                                       
+                                                                                 
+<body>
+<h1>Charlie's Cafe</h1>
+About
+Specials
+Menu
+Location
+Contact
+<img src="img/milk.jpg" alt="coffee milk"/>
+
+<h2>Charlie's is a high quality coffee shop that prides itself on fresh ingredients and fast service to students. </h2>
+<h3>Hot Drinks</h3>
+<p>Drip Coffee  …………………………………………………………………………………………………………………   1.95 / 2.25 / 2.50
+<p>Espresso  …………………………………………………………………………………………………………………   1.95 / 2.50 / 3.00
+<p>Macchiato  ………………………………………………………………………………………………………………   2.00 / 2.50 / 3.25
+<p>Americano  ………………………………………………………………………………………………………………   2.00 / 2.50 / 3.25
+<p>Cappuccino  ……………………………………………………………………………………………………………   2.95 / 3.50 / 4.25
+<p>Caffe Latte  …………………………………………………………………………………………………………   3.25 / 3.75 / 4.50
+<p>Caffe Mocha  …………………………………………………………………………………………………………   3.25 / 4.00 / 4.75
+<p>Hot Chocolate  ……………………………………………………………………………………………………   2.75 / 3.25 / 3.95 
+<p>Chai Latte  ……………………………………………………………………………………………………………   3.25 / 3.95 / 4.25 
+<p>Organic Tea  …………………………………………………………………………………………………………   2.50   
+<br>Gunpowder Green, Aged Earl Grey, Chamomile, Jasmine Green, Golden Chai, Mint (herbal), Mate Lemon, Breakfast Blend, Silver & Spice, Raspberry Pomegranate, Lemon Ginger
+<h3>Iced Drinks</h3>
+<p>Coffee  ……………………………………………………………………………………………………………………    2.70
+<p>Americano  ……………………………………………………………………………………………………………  2.00 / 2.50 / 3.25
+<p>Latte  ………………………………………………………………………………………………………………………  3.25 / 3.75 / 4.50
+<p>Mocha  ………………………………………………………………………………………………………………………  3.25 / 3.95 / 4.25
+<p>Chai  …………………………………………………………………………………………………………………………  3.25 / 3.95 / 4.25
+<p>Mocha Frappe  ……………………………………………………………………………………………………  4.25 / 5.00
+<p>Thai Cappuccino  ……………………………………………………………………………………………  4.00
+<p>Thai Tea  ………………………………………………………………………………………………………………  3.25
+<p>Iced Tea  ………………………………………………………………………………………………………………  2.50 /  2.75
+
+<h3>Breakfast</h3>
+<p>Croissant   ……………………………………………………………………….……………………………………………   2.50
+<p>Chocolate Croissant   …………………………………………………………………….…………………………….   2.75
+<p>Strawberry Croissant  …………………………………………………………………….…………………………….   2.75
+<p>Scone   …………………………………………………………………….…………………………….……………………..   2.50
+<p>Blueberry Muffin   …………………………………………………………………….…………………………….…….   2.50
+<p>Chocolate Muffin   …………………………………………………………………….…………………………….……   2.50
+<p>Lemon Poppyseed Muffin   …………………………………………………………………….……………………   2.50
+<p>Banana Nut Muffin   …………………………………………………………………….………………………….……   2.50
+<p>Whole Wheat Bagel   …………………………………………………………………….………………………..……   2.50
+<p>Blueberry Bagel   …………………………………………………………………….……………………………...……   2.50
+<p>Cinnamon Raisin Bagel   …………………………………………………………………….………………………..   2.50
+<p>Jalapeno Asiago Bagel    …………………………………………………………………….……………………….   2.50
+<p>Ham and Swiss Croissant    …………………………………………………………………….……………………   2.50
+<p>Waffles
+<br>Served with whipped cream and syrup (Wednesdays only)                                         
+                                        
+<h3>Lunch</h3>                                        
+<p>Paninis
+<p>Italiano
+<br>Grilled baguette with prosciutto, mozzarella, sliced tomato, basil pesto, and a touch of balsamic vinegar
+<p></l>Seville
+<br>Grilled baguette with Spanish chorizo, mozzarella, sliced tomato, roasted red pepper, sun dried tomato pesto and a touch of balsamic vinegar
+<p></li>Milano
+<br>Grilled baguette with prosciutto, salami, ham, mozzarella, sliced tomato, pepperoncini, basil pesto, and a touch of balsamic vinegar
+<p></l>Caprese
+<br>Grilled baguette with mozzarella, sliced tomato, fresh basil (when available), basil pesto, and a touch of balsamic vinegar
+<p>Turkey Florentine
+<br>Sliced turkey, tomato, spinach, mozzarella cheese with basil pesto and a drizzle of balsamic on baguette
+<p>Vegetarian Panini
+<br>Grilled ciabatta bread with mozzarella, feta cheese, roasted red peppers, marinated artichoke, tomato, red onion, and finished with basil pesto
+<p>Mediterrnean Chicken
+<br>Grilled ciabatta bread with spiced chicken breast, mozzarella, roasted red peppers, sliced tomato and sun dried tomato pesto
+                                         
+<p>Chicken Tikka Masala …………………………………………………………………….…………………………….……   6.50
+<p>Vegetable Korma …………………………………………………………………….…………………………….……   6.50
+<p> Cajun Chicken Salad …………………………………………………………………….…………………………….…… 7.50
+<br>Chicken, Romaine Lettuce, Cherry Tomatoes, Cucumbers, Ceasar Dressing                                         
+
+Small Bites
+Chocolate Chip Cookie
+Brownie
+Rice Krispy Treat
+Lemon Bar
+Granola Bars
+Gum
+Chips
+Bottled Soda
+Apple
+Banana
+Yogurt
+
+                                        
+<div><p>Charlie’s Cafe Hayden Library
+
+<p>Monday - Thursday   7 am - 5 pm
+<p>Fridays             7 am - 2 pm
+
+<p>Charlie’s Cafe Bio Design
+
+<p>Monday - Thursday   7 am - 4 pm
+<p>Fridays             7 am - 2 pm                                         
+
+<p>Charlie’s Cafe Design North
+
+<p>Monday - Thursday   7 am - 7 pm
+<p>Fridays             7 am - 4 pm
+</div>                                        
+
+<ul class="list">
+  <li>
+    <div class="product">
+      <h4>Product Title</h4>
+      <p class="description">Description</p>
+    </div>
+    <div class="prices">
+      <p class="price">$1.95</p>
+      <p class="price">$2.95</p>
+      <p class="price">$3.95</p>
+    </div>
+  </li>
+  <li>
+    <div class="product">
+      <h4>Longer Product Title</h4>
+    </div>
+    <div class="prices">
+      <p class="price">$1.95</p>
+      <p class="price">$2.95</p>
+      <p class="price">$3.95</p>
+    </div>
+  </li>
+  <li>
+    <div class="product">
+      <h4>Short Title</h4>
+      <p class="description">Description</p>
+    </div>
+    <div class="prices">
+      <p class="price">$1.95</p>
+      <p class="price">$2.95</p>
+      <p class="price">$3.95</p>
+    </div>
+  </li>
+</ul>
+
+                                                       
+</body>
+</html>
