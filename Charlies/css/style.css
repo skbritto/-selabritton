@@ -1,0 +1,43 @@
+body{
+    letter-spacing: .5px;
+    line-height: 1.5;
+    padding: 3rem;
+    font-family: 'Rokkitt', serif;
+}
+
+img{
+    max-width: 100%;
+}
+
+.list li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+.product {
+  flex: 1;
+  position: relative;
+  border-bottom: 2px dotted #3F3F3F;
+}
+.product::after {
+  border-bottom: 2px dotted #3F3F3F;
+  content: '';
+  position: absolute;
+  top: .7rem;
+  width: 100%;
+  z-index: 0;
+}
+
+.product h4 {
+  background: #fff;
+  display: inline-block;
+  padding-right: .5rem;
+  position: relative;
+  z-index: 1;
+}
+.prices {
+  display: flex;
+}
+.price {
+  padding: 0, .5rem;
+}
