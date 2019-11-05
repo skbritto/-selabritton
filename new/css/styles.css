@@ -101,7 +101,6 @@ h2{
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 40px;
     padding: 3rem;
-    width: 100%;
 }
 .description{
     font-size: .8em;
