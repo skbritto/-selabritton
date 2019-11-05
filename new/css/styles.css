@@ -89,15 +89,13 @@ h1 {
 .footer{
     background-color: #3e403f; 
     width: 100%;
-    color: white;
-    margin-top: 100px;
-    
- 
+    color: white;    
 }
+
 .footer-wrapper{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 10px;
+    grid-gap: 40px;
     padding: 3rem;
 }
 .description{
