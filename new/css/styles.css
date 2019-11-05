@@ -7,13 +7,15 @@ body{
 }
 .list{
     list-style: none;
+    text-decoration: none;
 }
-}
+
 a:link{
     text-decoration: none;
     color: white;
 }
 a:visited{
+    text-decoration: none;
     color: white;
 }
 
@@ -21,17 +23,28 @@ img{
     max-width: 100%;
 }
 
-.container{
-position: relative;
-text-align: center;
-color: white;
+.heading{
+    position: relative;
+    text-align: center;
+    color: white;
 }
 
-.title {
-  position: absolute;
-  top: 5px;
-  left: 16px;
-}    
+h1 {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:60px; 
+}
+
+.topnav {
+    position: absolute;
+    display: grid;
+    grid-gap: 40px;
+    padding: 3rem;
+    top: 10%;
+    left: 1rem;
+}
 
 .list li {
   display: flex;
@@ -62,4 +75,30 @@ color: white;
 }
 .price {
   padding: 0 .5rem;
+}
+.about{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 16px;
+    text-align: center;
+    
+}
+.footer{
+    background-color: #3e403f; 
+    width: 100%;
+    color: white;
+    margin-top: 100px;
+    
+ 
+}
+.footer-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding: 3rem;
+}
+.description{
+    font-size: 14px;
 }
