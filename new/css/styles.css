@@ -20,7 +20,7 @@ a:visited{
 }
 
 img{
-    max-width: 100%;
+    width: 100%;
 }
 
 .heading{
@@ -52,6 +52,10 @@ h2{
     font: 2em;
 }
 
+.about{
+    display: flex;
+    font: 2em;
+}
 .list li {
   display: flex;
   justify-content: space-between;
