@@ -103,8 +103,14 @@ display: flex;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 40px;
-    padding: 3rem;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: #3e403f;
 }
 .description{
     font-size: .7em;
+}
+.contact-info{
+    display: flex;
+    width:100%;
 }
