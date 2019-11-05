@@ -58,9 +58,11 @@ h2{
 
 .about{
     display: flex;
-    font: 2em;
+    font: 1em;
     position: relative;
     padding: 1rem;
+}
+
 }
 .list li {
   display: flex;
