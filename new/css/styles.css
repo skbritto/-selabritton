@@ -1,3 +1,6 @@
+html { 
+    font-size: 2vw; 
+}
 body{
     letter-spacing: .5px;
     line-height: 1.5;
@@ -34,7 +37,7 @@ h1 {
     top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 40px; 
+    font-size: 2em; 
 }
 
 .topnav {
@@ -44,10 +47,13 @@ h1 {
     padding: 2rem;
     top: 10%;
     left: 5px;
-    font-size: 20px;
+    font-size: 16px;
     text-align: left;
 }
-
+h2{
+    display: flex;
+    font: 18px;
+}
 .list li {
   display: flex;
   justify-content: space-between;
