@@ -40,11 +40,12 @@ h1 {
 .topnav {
     position: absolute;
     display: grid;
-    grid-gap: 40px;
-    padding: 3rem;
+    grid-gap: 30px;
+    padding: 2rem;
     top: 10%;
-    left: 1rem;
+    left: 5px;
     font-size: 20px;
+    text-align: left;
 }
 
 .list li {
