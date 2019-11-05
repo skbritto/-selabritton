@@ -56,12 +56,6 @@ h2{
     font: 2em;
 }
 
-.about{
-    display: flex;
-    font: 1em;
-    position: relative;
-    padding: 1rem;
-}
 
 }
 .list li {
