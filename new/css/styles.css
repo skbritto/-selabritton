@@ -133,12 +133,11 @@ ul{
   and (orientation: portrait) { 
 
 h1 {
-   font-size: 6vw; 
-      
+   font-size: 6vw;     
 }
       
 .topnav {
     font-size: 3vw;
       }
 
-      
+}
